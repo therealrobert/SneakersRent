@@ -1,0 +1,9 @@
+US HOMEWORK 
+
+Progetto: Noleggio Sneakers 
+
+1. Come consumatore, voglio avere un abbonamento a sottoscrizione cancellabile in qualsiasi momento, in modo da noleggiare sneakers per un periodo limitato. 
+
+2. Come consumatore, voglio avere la possibilità di provare fisicamente i prodotti d’interesse, in modo da farmi un’idea sull’esperienza reale. 
+
+3. Come noleggiatore, voglio premiare il consumatore per ogni pacchetto sottoscritto attraverso un programma fedeltà, in modo da incentivare lo stesso a rimanere il più a lungo possibile.  
